@@ -1,4 +1,5 @@
 # test-data-generator
+![CI](https://github.com/FerrowAI/test-data-generator/actions/workflows/ci.yml/badge.svg)
 
 Seeded deterministic fake-data generator with schema-driven generation. Same seed produces identical output every time — critical for reproducible test suites.
 
