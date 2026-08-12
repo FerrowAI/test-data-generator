@@ -1,0 +1,12 @@
+# test-data-generator
+> Seeded deterministic fake data generator with schema-driven generation
+
+Seeded deterministic fake-data generator with schema-driven generation. Same seed produces identical output every time — critical for reproducible test suites. ```typescript import { TestDataGenerator } from 'test-data-generator';
+
+## API
+- `TestDataGenerator`
+
+## Install
+Each library is a standalone GitHub repo under github.com/Ruzylo-cloud.
+
+Part of the Ferrow open-source toolkit: https://github.com/Ruzylo-cloud/ferrow-toolkit — sponsored by https://ferrow.ai
