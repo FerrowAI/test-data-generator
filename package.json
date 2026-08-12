@@ -1,1 +1,1 @@
-{"name":"test-data-generator","version":"1.0.0","main":"dist/index.js","types":"dist/index.d.ts","scripts":{"build":"tsc","test":"jest"},"keywords":["ferrow"],"license":"MIT"}
+{"name":"test-data-generator","version":"1.0.0","description":"Seeded deterministic fake data generator with schema-driven generation","main":"dist/index.js","types":"dist/index.d.ts","scripts":{"build":"tsc"},"keywords":["test-data","generator","seeded","deterministic","faker","schema"],"author":"Ruzylo-cloud","license":"MIT","devDependencies":{"typescript":"^5.0.0"}}
