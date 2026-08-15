@@ -1,4 +1,6 @@
 # test-data-generator
+
+Install: npm install @ferrow/test-data-generator
 > Seeded deterministic fake data generator with schema-driven generation
 
 Seeded deterministic fake-data generator with schema-driven generation. Same seed produces identical output every time — critical for reproducible test suites.
